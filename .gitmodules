@@ -1,0 +1,3 @@
+[submodule "ProductCatalogService"]
+	path = ProductCatalogService
+	url = https://github.com/varunkus00/ProductCatalogService.git
