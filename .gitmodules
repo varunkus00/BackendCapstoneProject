@@ -1,3 +1,6 @@
 [submodule "ProductCatalogService"]
 	path = ProductCatalogService
 	url = https://github.com/varunkus00/ProductCatalogService.git
+[submodule "UserAuthService"]
+	path = UserAuthService
+	url = https://github.com/varunkus00/UserAuthService.git
